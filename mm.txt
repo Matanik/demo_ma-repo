@@ -1,3 +1,1 @@
-demo repository
-
-my repo for QA fundamentals 17/06/2023
+my first repo for github 17/06/2023
